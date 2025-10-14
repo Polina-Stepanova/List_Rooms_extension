@@ -8,10 +8,11 @@
       "description": "Extension for PyRevit",
       "author": "Polina Stepanova",
       "author_profile": "https://github.com/Polina-Stepanova",
-      "url": "https://github.com/Polina-Stepanova/List_Rooms.extension",
+      "url": "https://github.com/Polina-Stepanova/List_Rooms.extension.git",
       "website": "",
       "image": "",
       "dependencies": []
     }
   ]
+
 }
