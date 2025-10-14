@@ -8,11 +8,22 @@
 
 ## Установка
 
-Установка выполняется из **командной строки (cmd)** командой
+Установка выполняется вручную.
 
-` pyrevit extend ui List_Rooms "https://github.com/Polina-Stepanova/List_Rooms.extension.git" --branch="main" `
+**1.** Скачать репозиторий (архив .zip)
+![Alt text](https://github.com/Polina-Stepanova/List_Rooms.extension/blob/a41fa6c3715f9665ed6f178a98c96ac04abff7de/images/how-download-dir.png?raw=true "Скриншот кнопки скачивания архива репозитория с GitHub")
 
-По умолчанию расширение будет установлено в ` C:\Users\<username>\AppData\Roaming\pyRevit\Extensions ` (Windows 10). Указать директорию для установки можно с помощью ` --dest="<dest_path>" `.
+**2.** Извлечь папку List_Rooms.extension, вложенную в папку List_Rooms.extension-main, в предпочтительное место на устройстве. (например ` C:\Users\<username>\Documents\List_Rooms.extension-main\List_Rooms.extension `)
+
+**3.** Запустить Revit и в первой панели вкладки pyRevit, в выпадающем меню открыть **Настройки**.
+
+![Alt text](https://github.com/Polina-Stepanova/List_Rooms.extension/blob/07a8eb35a52433afb58af0d97387c7edca120bc1/images/pyrevit-settings.png?raw=true "Скриншот местоположения настроек pyRevit")
+
+**4.** Добавить папку List_Rooms.extension-main, содержащую папку List_Rooms.extension, в список каталогов пользовательских расширений.
+
+![Alt text](https://github.com/Polina-Stepanova/List_Rooms.extension/blob/07a8eb35a52433afb58af0d97387c7edca120bc1/images/add-extension-folder-path.png?raw=true "Скриншот меню добавления пути к папке с пользовательским расширением")
+
+**5.** Перезапустить Revit
 
 ## Использование
 
