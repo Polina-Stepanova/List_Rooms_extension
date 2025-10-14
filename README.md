@@ -30,6 +30,7 @@
 После установки при следующем запуске Revit во вкладке "pyRevit" появится панель "Tools", на которой расположен выпадающий список "Rooms", содержащий одну кнопку "List Rooms".
 
 ![Alt text](https://github.com/Polina-Stepanova/List_Rooms/blob/main/images/dropdown-button.PNG?raw=true "Скриншот выпадающего списка 'Rooms'")
+
 ![Alt text](https://github.com/Polina-Stepanova/List_Rooms/blob/main/images/list-rooms-button.png?raw=true "Скриншот кнопки 'List Rooms'")
 
 Нажатие на кнопку вызывает окно выбора действия с тремя вариантами работы с собранной информацией о помещениях:
