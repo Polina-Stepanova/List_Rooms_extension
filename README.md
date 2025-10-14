@@ -10,7 +10,7 @@
 
 Установка выполняется вручную.
 
-**1.** Скачать репозиторий (архив .zip)
+**1.** Скачать репозиторий (архив ZIP)
 ![Alt text](https://github.com/Polina-Stepanova/List_Rooms.extension/blob/a41fa6c3715f9665ed6f178a98c96ac04abff7de/images/how-download-dir.png?raw=true "Скриншот кнопки скачивания архива репозитория с GitHub")
 
 **2.** Извлечь папку List_Rooms.extension, вложенную в папку List_Rooms.extension-main, в предпочтительное место на устройстве. (например ` C:\Users\<username>\Documents\List_Rooms.extension-main\List_Rooms.extension `)
