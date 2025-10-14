@@ -12,7 +12,7 @@
 
 ` pyrevit extend ui List_Rooms "https://github.com/Polina-Stepanova/List_Rooms.extension.git" --branch="main" `
 
-По умолчанию расширение будет установлено в ` C:\Users\<username>\AppData\Roaming\pyRevit\Extensions `. Указать директорию для установки можно с помощью ` --dest="<dest_path>" `.
+По умолчанию (для Windows 10) расширение будет установлено в ` C:\Users\<username>\AppData\Roaming\pyRevit\Extensions `. Указать директорию для установки можно с помощью ` --dest="<dest_path>" `.
 
 ## Использование
 
