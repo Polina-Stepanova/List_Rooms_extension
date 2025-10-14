@@ -1,0 +1,17 @@
+{
+  "extensions": [
+    {
+      "builtin": "False",
+      "type": "extension",
+      "rocket_mode_compatible": "False",
+      "name": "List Rooms",
+      "description": "Extension for PyRevit",
+      "author": "Polina Stepanova",
+      "author_profile": "https://github.com/Polina-Stepanova",
+      "url": "https://github.com/Polina-Stepanova/List_Rooms.extension",
+      "website": "",
+      "image": "",
+      "dependencies": []
+    }
+  ]
+}
